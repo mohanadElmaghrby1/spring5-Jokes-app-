@@ -33,6 +33,13 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator-parent -->
+        <dependency>
+            <groupId>guru.springframework</groupId>
+            <artifactId>chuck-norris-for-actuator-parent</artifactId>
+            <version>0.0.2</version>
+            <type>pom</type>
+        </dependency>
 
 
     </dependencies>
